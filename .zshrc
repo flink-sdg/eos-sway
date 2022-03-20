@@ -14,6 +14,7 @@ alias h='cd ~'
 alias r='cd ~/Documents/repositories'
 alias n=nvim
 alias src='source ~/.zshrc'
+alias update='sudo pacman -Syu'
 alias zsh-conf='n ~/.zshrc'
 alias nvim-conf='cd ~/.config/nvim'
 
