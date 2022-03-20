@@ -1,0 +1,6 @@
+require('user.packer')
+require('user.lsp-installer')
+require('user.cmp')
+require('user.autopairs')
+require('user.keybindings')
+require('user.options')
