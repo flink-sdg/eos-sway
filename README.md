@@ -1,10 +1,11 @@
 # test push
 
+* install alacritty
+* install alacritty color theme
 * update sway and swaybar configurations
 * install zsh
 * install oh-my-zsh
 * install nerd font
-* install xfce4-terminal color theme
 * install / set up neovim
 * install packer
 * update and src .zshrc

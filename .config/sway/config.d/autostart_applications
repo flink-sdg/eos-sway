@@ -20,4 +20,4 @@ exec dex -a -s /etc/xdg/autostart/:~/.config/autostart/
 
 # Personal
 exec firefox
-exec xfce4-terminal
+exec alacritty
