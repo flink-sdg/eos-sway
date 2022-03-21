@@ -8,6 +8,7 @@
 * install nerd font
 * install / set up neovim
 * install packer
+* install colorscript https://gitlab.com/dwt1/shell-color-scripts
 * update and src .zshrc
 * update LUA_PATH in .zshrc -- note, must be fully qualified path, no ~ or variables
 * disable grunt boot menu
