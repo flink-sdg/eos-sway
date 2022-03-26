@@ -1,4 +1,4 @@
-# test push
+## For Posterity
 
 * install [alacritty](https://github.com/alacritty/alacritty)
 * update alacritty color theme - `copy ./.config/alacritty ~/.config/alacritty`
