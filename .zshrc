@@ -13,6 +13,7 @@ export NVM_DIR="$HOME/.nvm"
 alias h='cd ~'
 alias r='cd ~/Documents/repositories'
 alias n=nvim
+alias c='echo "\x1b\x5b\x48\x1b\x5b\x32\x4a\x1b\x5b\x22\x4a" > /dev/stdout ; colorscript -r'
 alias src='source ~/.zshrc'
 alias update='sudo pacman -Syu'
 alias zsh-conf='n ~/.zshrc'
